@@ -14,5 +14,5 @@ ECMAScript is a modern JavaScript toolkit designed to empower developers with th
 To get started with ECMAScript, simply clone the repository and start exploring:
 
 ```bash
-git clone https://github.com/yourusername/ECMAScript.git
+git clone https://github.com/mheamahfoud/ECMAScript.git
 cd ECMAScript
